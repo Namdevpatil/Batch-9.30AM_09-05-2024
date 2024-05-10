@@ -1,0 +1,54 @@
+For example, if we want construct a building for that we need a plan/blueprint.
+
+To construct a building, what we are needed,
+	- cement
+	- concrete
+	- sand
+	- iron
+	- water
+	- bricks
+	- machineries
+	- man power
+
+Class: it is a template/blueprint to create an object.
+=====
+=> it is a logical entity.
+
+To create/instantiate an Object/Instance we need,
+Class Properties:
+	- Fields/variables
+	- Initializers
+		- constructors
+		- blocks
+		- methods
+	- Behavior/Methods
+	- Keywords
+	- Inner classes
+
+Object: it is an instance of a class.
+
+=> the object exists physically in computer memory.
+
+
+For Example,
+
+Customer - class
+  - id
+  - name
+  - address
+  - email
+  - contactNo
+  
+  - Shopping
+  - Inquiry
+  - Gives a feedback
+  - getCustomerInfo
+  
+--------------------------------------------------------------------------------------
+Constructor:
+-----------
+
+it is special method, which we use to initialize the object(state of the object).
+
+
+
